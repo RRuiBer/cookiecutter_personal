@@ -1,0 +1,7 @@
+{
+    "project_title": "Plantilla_personalizada_clase",
+    "project_slug": "{{cookiecutter.project_title.lower().replace(' ', '_').replace('-', '_')}}",
+    "project_description": "Plantilla personalizada para la clase de programación",
+    "author_name": "RRuiber",
+    "python_version": "3.12"
+}
